@@ -37,5 +37,3 @@ Se você também ama os personagens da Sanrio e quer deixar a aplicação ainda 
 * **Imagens:** Adicione imagens dos seus personagens para deixar o README mais atrativo.
 * **GIFs:** Se quiser adicionar um toque mais divertido, você pode incluir GIFs demonstrando a funcionalidade da aplicação.
 * **Emojis:** Use emojis para deixar o texto mais animado e divertido.
-
-Com este README.md, você terá um arquivo claro e conciso que explica o seu projeto de forma descontraída e atrativa para outros desenvolvedores. 
