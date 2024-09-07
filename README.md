@@ -31,9 +31,3 @@ Se você também ama os personagens da Sanrio e quer deixar a aplicação ainda 
 
 **#Sanrio #JavaScript #WebDev #Kawaii**
 
-**Observações:**
-
-* **Adapte à sua realidade:** Sinta-se à vontade para adaptar este README.md para o seu projeto específico, adicionando mais detalhes ou mudando o tom da linguagem.
-* **Imagens:** Adicione imagens dos seus personagens para deixar o README mais atrativo.
-* **GIFs:** Se quiser adicionar um toque mais divertido, você pode incluir GIFs demonstrando a funcionalidade da aplicação.
-* **Emojis:** Use emojis para deixar o texto mais animado e divertido.
